@@ -4,7 +4,7 @@
 - Programming languages: Python
 - Languages: English, Ukrainian, Russian
 - Past experience: Jane Street, Optiver
-- Interests: Data Science, Markets, Trading, Music, Sports, Art
+- Interests: Data Science, Markets, Trading, Music, Sports
 - Favourite cake: Kyiv cake
 
 I have a Bachelors in Mathematics from Cambridge, focusing on pure and applicable maths. I am currently studying on an AI Core Data Science track, while running a custom vintage clothing store as a hobby. I am interested in excelling my skills in Data Analytics and Data Science and working on various projects, so I am open to collaboration. I am also involved in some maths Olympiads, such as Ukrainian National Olympiad and coordination at EGMO.
